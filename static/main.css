@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(-90deg, gray, white);
+}
+  
+img {
+    width: 1000px;
+}
+  
+h1 {
+    color: pink;
+    font-family: Impact, sans-serif;
+    letter-spacing: 10px;
+}
